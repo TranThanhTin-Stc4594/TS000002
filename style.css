@@ -11,7 +11,7 @@ body, html {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 50%;
+    margin: 20%;
     height: 100vh;
     text-align: center;
 }
